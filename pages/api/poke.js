@@ -6,5 +6,6 @@ async function poke(request, response){
     response.json({
         pokemon: pokeResponseJson
     })
+    console.log(pokeResponseJson);
 }
 export default poke;
