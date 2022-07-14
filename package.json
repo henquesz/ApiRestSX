@@ -1,18 +1,26 @@
 {
-  "name": "pokeapi",
+  "name": "apirestsx",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "heroku-postbuild": "npm run build"
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henquesz/ApiRestSX.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henquesz/ApiRestSX/issues"
+  },
+  "homepage": "https://github.com/henquesz/ApiRestSX#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "next": "^12.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
