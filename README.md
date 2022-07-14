@@ -30,6 +30,9 @@ Clone o repósitorio através da URL https://github.com/henquesz/ApiRestSX.git.
 ```bash
   npm install
   npm run dev
+  -
+  Assim que rodar o projeto, escreva na url : /api/poke
+  A url local deve se parecer com isto: http://localhost:3000/api/poke
 ```
 ## Observações finais importantes
 
