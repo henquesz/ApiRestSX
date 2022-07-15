@@ -25,7 +25,7 @@ Clone o repósitorio através da URL https://github.com/henquesz/ApiRestSX.git.
 
 
 
-## Script para rodar o projeto (vue)
+## Script para rodar o projeto (nextjs)
 
 ```bash
   npm install
